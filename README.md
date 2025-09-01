@@ -12,6 +12,9 @@ https://drive.google.com/file/d/1Lr7KNVxQQvkZ8tT3rMHgi2RW6I242rf7/view?usp=drive
 # PowerBi Dashboard PDF File
 https://drive.google.com/file/d/15hpEZvydHbD97xgcYGz7Y6r8gA5rSjwP/view?usp=drive_link
 
+# SQL Scripts
+https://drive.google.com/file/d/1WfTBDSz0BOtp7N1yAbhpEGPj_4i0_tro/view?usp=drive_link
+
 # Objectives
 The goal of this dashboard is to analyze crowdfunding performance, help identify factors influencing project success/failure, and provide a data-driven view of global crowdfunding trends.
 
