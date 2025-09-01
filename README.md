@@ -8,3 +8,6 @@ https://docs.google.com/spreadsheets/d/1XcvJ8Fb3f9PlwL5oR0H-i8Su9nrnCeTi/edit?us
 
 # PowerBi Dashboard PDF File
 https://drive.google.com/file/d/15hpEZvydHbD97xgcYGz7Y6r8gA5rSjwP/view?usp=drive_link
+
+# PowerBi Dashboard Image File
+
