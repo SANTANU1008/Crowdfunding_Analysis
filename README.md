@@ -6,6 +6,9 @@ https://docs.google.com/spreadsheets/d/1fEOWoCy1LkAOT38VcUvPv70_H5s6FfiA/edit?us
 https://docs.google.com/spreadsheets/d/1osUt1UmUA53LdDBHv32RgnNiKyUwlPPR/edit?usp=drive_link&ouid=105830835857220530262&rtpof=true&sd=true
 https://docs.google.com/spreadsheets/d/1XcvJ8Fb3f9PlwL5oR0H-i8Su9nrnCeTi/edit?usp=drive_link&ouid=105830835857220530262&rtpof=true&sd=true
 
+# PowerBi Dashboard Image File
+https://drive.google.com/file/d/1Lr7KNVxQQvkZ8tT3rMHgi2RW6I242rf7/view?usp=drive_link
+
 # PowerBi Dashboard PDF File
 https://drive.google.com/file/d/15hpEZvydHbD97xgcYGz7Y6r8gA5rSjwP/view?usp=drive_link
 
