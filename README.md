@@ -19,19 +19,27 @@ https://drive.google.com/file/d/1WfTBDSz0BOtp7N1yAbhpEGPj_4i0_tro/view?usp=drive
 The goal of this dashboard is to analyze crowdfunding performance, help identify factors influencing project success/failure, and provide a data-driven view of global crowdfunding trends.
 
 # Tools & Technology
-Power BI for visualization and dashboard development
-Data Modeling for combining categories, creators, project details, and time-series insights
-DAX measures for calculating KPIs like project success rate and average project duration
+## Power BI 
+For visualization and dashboard development. 
+Data Modeling for combining categories, creators, project tables' details, and time-series insights
+DAX measures for calculating KPIs like project success rate and average project duration etc.
+## MySQL 
+To analysis data and to crosscheck visualized and calculated records. 
 
 # Process
 Handled over 10 Lakhs records by performing  data cleaning, converting Epoch time to human readable time, Data Processing and data Transformeing to visualize finally.
 
 # Key Insights
-Project Status Analysis: Breakdown of successful, failed, canceled, and live projects.
-Category-wise Projects: Distribution of projects across domains such as technology, music, video, food, etc.
-Funding & Backers Trends: Comparison of pledged money vs. backers by project status.
-Geographical Insights: Country-wise project distribution displayed on an interactive map.
-Time-Series Analysis: Number of projects over years, quarters, and months to identify growth patterns.
+## Project Status Analysis: 
+Breakdown of successful, failed, canceled, and live projects.
+## Category-wise Projects: 
+Distribution of projects across domains such as technology, music, video, food, etc.
+## Funding & Backers Trends: 
+Comparison of pledged money vs. backers by project status.
+## Geographical Insights: 
+Country-wise project distribution displayed on an interactive map.
+## Time-Series Analysis: 
+Number of projects over years, quarters, and months to identify growth patterns.
 
 # Conclusion
 This Crowdfunding Analysis Dashboard provides a clear and interactive way to understand how different factors (status, category, geography, and time) influence the success or failure of crowdfunding projects. By combining KPIs, trend analysis, and geographical insights, the dashboard helps identify patterns that can guide creators, investors, and platforms in making better decisions.
